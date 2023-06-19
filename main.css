@@ -97,11 +97,11 @@ h1 {
   transform-origin: bottom left;
 }
 
-.paystack {
+.outliant {
   color: #110b33;
 }
 
-.paystack::after {
+.outliant::after {
   background-color: #110b33;
 }
 
